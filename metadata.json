@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Video",
+  "description": "An advanced, high-performance video player app called Infinity Video with smooth playback, folders, vault, playlists, and interactive gestures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
